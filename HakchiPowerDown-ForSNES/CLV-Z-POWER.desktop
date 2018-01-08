@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /usr/share/games/CLV-Z-POWER/power.sh
+Path=/var/lib/clover/profiles/0/CLV-Z-POWER
+Name=Shut Down Console
+Icon=/usr/share/games/CLV-Z-POWER/CLV-Z-POWER.png
+
+[X-CLOVER Game]
+Code=CLV-Z-POWER
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=2018-01-01
+SaveCount=0
+SortRawTitle=shutdownconsole
+SortRawPublisher=SWINGFLIP
+Copyright=hakchi2 ©2018 Ryan 'Swingflip' Hamlin

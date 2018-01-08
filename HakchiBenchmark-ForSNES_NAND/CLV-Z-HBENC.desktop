@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /usr/share/games/CLV-Z-HBENC/hbenc.sh
+Path=/var/lib/clover/profiles/0/CLV-Z-HBENC
+Name=Hakchi Benchmark Tool (NAND)
+Icon=/usr/share/games/CLV-Z-HBENC/CLV-Z-HBENC.png
+
+[X-CLOVER Game]
+Code=CLV-Z-HBENC
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=2018-01-01
+SaveCount=0
+SortRawTitle=hakchibenchmarktool
+SortRawPublisher=SWINGFLIP
+Copyright=hakchi2 ©2018 Ryan 'Swingflip' Hamlin

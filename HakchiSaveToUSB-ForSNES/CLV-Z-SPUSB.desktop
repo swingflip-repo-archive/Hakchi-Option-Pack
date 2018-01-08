@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /usr/share/games/CLV-Z-SPUSB/spusb.sh
+Path=/var/lib/clover/profiles/0/CLV-Z-SPUSB
+Name=Hakchi Push Saves to USB
+Icon=/usr/share/games/CLV-Z-SPUSB/CLV-Z-SPUSB.png
+
+[X-CLOVER Game]
+Code=CLV-Z-SPUSB
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=2018-01-01
+SaveCount=0
+SortRawTitle=hakchipushsavestousb
+SortRawPublisher=SWINGFLIP
+Copyright=hakchi2 ©2018 Ryan 'Swingflip' Hamlin
